@@ -42,6 +42,32 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.fbx
+*.wav
+*.png
+*.meta
+*.obj
+*.mat
+*.jpg
+*.prefab
+*.exr
+*.unity
+*.terrainlayer
+*.asset
+*.psd
+*.txt
+*.shader
+*.cginc
+*.json
+*.ttf
+*.TTF
+*.pdf
+*.mp3
+*.controller
+*.anim
+*.flare
+*.tif
+
 
 # Unity3D generated meta files
 *.pidb.meta
