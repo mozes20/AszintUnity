@@ -53,7 +53,7 @@ Egy játék a benne rejlő értékektöl lesz egyedi hogy mit szeretnének el me
 # __Mivel leszünk jobbak?__
 
 Szeretnénk ennek a két játéknak az erősségeit össze ötvözni és kihozni belőle egy nem túlsok válaló de annál izgalmasabb, őszintébb játékot. Aminek a története és a mondanivalója elég széleskörű réteget érint az egyetemi környezet miatt. Nem  ijesztegetős horrort akarunk, hanem egy izgalmas feszült szívszorító történetet szeretnénk átadni a játékosnak. Elkalauzolni őket az egyetemi nehézségek kilátástalan helyzetébe. 
-__"Mi nem jobbak szeretnénk lenni hanem másképp akarjuk csinálni."__ -Jobs gondolkozz másképp
+__"Mi nem jobbak szeretnénk lenni hanem másképp akarjuk csinálni."__ (Idézet a Jobs – Gondolkozz másképp- című filmből)
 
 
 
