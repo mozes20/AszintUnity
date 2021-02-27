@@ -37,6 +37,10 @@ A horror mint műfaj hatalmas lehetőségeket rejt magában, mint művészileg m
 
 ## Átvett dolgok
 
-Ezeknek a játékoknak nagyon erős narratívája van a mi játékunkban is szeretnénk valami ilyesmit elérni. A layers of fear Unity enginen fut. Mi i sebben az enginben készítjük el a játékunkat pont ugyan azon okbol mint a layers of fear-t. Nagyon rugalmasan kezeli a játékon belüli objektumokat. Könnyű akár a jáék közben cserégetni akár egész szobákat. Ez az egyik dolgo amit át vettünk a layers of fear ből.
+Ezeknek a játékoknak nagyon erős narratívája van a mi játékunkban is szeretnénk valami ilyesmit elérni. A layers of fear Unity enginen fut. Mi is ebben az enginben készítjük el a játékunkat pont ugyan azon okbol mint a layers of fear-t. Nagyon rugalmasan kezeli a játékon belüli objektumokat. Könnyű akár a jáék közben cserégetni akár egész szobákat. Ez az egyik dolog amit át vettünk a layers of fear ből. Ezt az eszközt a bizonytalanság keltése érdekében használjuk nincsenek fix ismert pontok mindig más és más.
+
+A Little nightmares vizuális történet mesélés nagyban ihlette a mi játékunknak is a történet mesélését. Szeretnénk mi is metaforikusan át adni a történetet mindenki máshogy értelmezheti saját magára szabava. 
+
+
 
 
