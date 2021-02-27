@@ -41,7 +41,7 @@ Ezeknek a játékoknak nagyon erős narratívája van a mi játékunkban is szer
 
 A Little nightmares vizuális történet mesélés nagyban ihlette a mi játékunknak is a történet mesélését. Szeretnénk mi is metaforikusan át adni a történetet mindenki máshogy értelmezheti saját magára szabava.
 
-### Milyen technoléógiával készültek el?
+### Milyen technológiával készültek el?
 
   Mind két jéték egy egy játék motorral készültek el az egyik az Unreal Engin , A másik meg Unity engin el. Ezek nagyban elősegítik a gyors játék fejlesztést és a könyű együtműködési rendszert tesz lehetővé.
 
