@@ -46,11 +46,11 @@ A Little nightmares vizuális történet mesélés nagyban ihlette a mi játéku
   Mind két jéték egy egy játék motorral készültek el az egyik az Unreal Engin , A másik meg Unity engin el. Ezek nagyban elősegítik a gyors játék fejlesztést és a könyű együtműködési rendszert tesz lehetővé.
 
 
-# Mitölesz Egyedi
+# Mitől lesz Egyedi
 Egy játék a benne rejlő értékektöl lesz egyedi hogy mit szeretnének el mesélni és hogyan. A nézőpont mindenhol más. Ha a karakter szemszögéböl vagyunk akkor teljesen másképp éljük át a történetet és máshogy fogjuk magunkat érezni a játék során sokkal intenzívebben éljük meg az eseményeket. Míg ha kívülröl tekintünkrá egy karakterre sokkal másabb az érzés lesz a történet akár aggodhatunk a főhősünkért. A történet és a pálya elemek a játékmechanikák tesznek egy játékot egyedivé és az, hogy hol játszódik.
 
 
-
+# 
 
 
 
