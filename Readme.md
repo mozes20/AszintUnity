@@ -19,7 +19,8 @@ A horror mint műfaj hatalmas lehetőségeket rejt magában, mint művészileg m
 2. Little nightmares 1, 2
    - Lélegzet elállító elgondolkodtató látvány elemek
    - Valós problémák metaforikus történet mesélése (nincs kimondva de minden történésnek súlya van)
-   - KÉÉPek
+   - ![alt text](https://github.com/mozes20/AszintUnity/blob/M%C3%B3zes/little1.png?raw=true)
+
 
 
 ## 2
