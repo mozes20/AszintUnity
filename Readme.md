@@ -14,12 +14,16 @@ A horror mint műfaj hatalmas lehetőségeket rejt magában, mint művészileg m
 1. A layers of fear:
    - Folymatosan változó területek és teljesen absztrakt épület felépítés
    - Hátborzongató történet
-   - KÉÉÉP
+
+![layers of fear](https://github.com/mozes20/AszintUnity/blob/M%C3%B3zes/leyers1.png?raw=true)
+
+![layers of fear](https://github.com/mozes20/AszintUnity/blob/M%C3%B3zes/layers2.png?raw=true)
 
 2. Little nightmares 1, 2
    - Lélegzet elállító elgondolkodtató látvány elemek
    - Valós problémák metaforikus történet mesélése (nincs kimondva de minden történésnek súlya van)
-   - ![alt text](https://github.com/mozes20/AszintUnity/blob/M%C3%B3zes/little1.png?raw=true)
+
+![Little nightmares](https://github.com/mozes20/AszintUnity/blob/M%C3%B3zes/little1.png?raw=true)
 
 
 
