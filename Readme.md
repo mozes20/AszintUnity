@@ -21,9 +21,9 @@ A horror mint műfaj hatalmas lehetőségeket rejt magában, mint művészileg m
 ![layers of fear](https://github.com/mozes20/AszintUnity/blob/M%C3%B3zes/layers2.png?raw=true)
 
 2. Little nightmares 1, 2
-   - A játék meg fog egy problémát valós életböl első rész: éhezés, második rész: a közösségé médiák, tv,stb. emberek manipulációjáról szól.
-   - Lélegzet elállító elgondolkodtató látvány elemek
-   - Valós problémák metaforikus történet mesélése (nincs kimondva de minden történésnek súlya van)
+   - A játék megfog egy problémát a valós életből első rész: éhezés, második rész: a közösségé médiák, tv,stb. emberek manipulációjáról szól.
+   - Lélegzetelállító, elgondolkodtató látványelemek
+   - Valós problémák metaforikus történetmesélése (nincs kimondva, de minden történésnek súlya van)
 
 ![Little nightmares](https://github.com/mozes20/AszintUnity/blob/M%C3%B3zes/little1.png?raw=true)
 
